@@ -10,8 +10,17 @@ This project analyses employee data to identify attrition patterns and examine w
 - Identify patterns across age groups and length of service.
 - Present management insights and recommendations.
 
-## Data Source
-The dataset was obtained from Kaggle.
+## Data Source and Licensing
+
+**Data Source:** The HR employee attrition dataset was obtained from Kaggle.
+
+**Dataset Licence:** The dataset listing references the Open Data Commons Database Contents License (DbCL) 1.0.
+
+The dataset is used for educational and portfolio purposes. The original source and applicable licence information are acknowledged. Redistribution and adaptation of the dataset are subject to the applicable licence terms.
+
+**Licence Reference:** [Open Data Commons Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/)
+
+**Note:** Please refer to the original Kaggle dataset page for the complete source information and applicable licence terms.
 
 ## Tools Used
 - Microsoft Power BI
@@ -97,3 +106,10 @@ The analysis identifies notable attrition patterns among younger employees, empl
 These findings provide management with a data-driven basis for identifying employee groups and areas that may require further investigation. By reviewing the highlighted patterns, strengthening employee engagement initiatives and assessing existing workforce practices, the organisation can develop more targeted employee retention strategies.
 
 Overall, the project demonstrates how data analysis and Power BI visualisation can support HR reporting, workforce monitoring and informed management decision-making.
+
+## How to Access the Project
+
+- **Dashboard Preview:** View the dashboard screenshots directly in this repository.
+- **Power BI Report:** Download the `.pbix` file from the PowerBI folder and open it using Microsoft Power BI Desktop.
+- **Dataset:** Access the original dataset from the Dataset folder, subject to its stated licence.
+- **Project Report:** View the project findings, management recommendations and conclusion in the Reports folder.
