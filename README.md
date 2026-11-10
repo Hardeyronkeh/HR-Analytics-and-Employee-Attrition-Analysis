@@ -28,13 +28,13 @@ The dataset was obtained from Kaggle.
 
 ## Dashboard Previews
 
-### Dashboard 1: Workforce Overview
+### Dashboard 1: Workforce Overview and Attrition Analysis.
 ![Dashboard 1](Dashboard-Screenshots/dashboard-1.png)
 
-### Dashboard 2: Employee Demographics
+### Dashboard 2: Employee Demographics and Attrition Patterns.
 ![Dashboard 2](Dashboard-Screenshots/dashboard-2.png)
 
-### Dashboard 3: Workforce Analysis
+### Dashboard 3: Additional Workforce Analysis and Management Insights.
 ![Dashboard 3](Dashboard-Screenshots/dashboard-3.png)
 
 
